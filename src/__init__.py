@@ -1,0 +1,1 @@
+"""Chemical Calculator source package."""
